@@ -1,0 +1,12 @@
+{
+  "name": "Regex101",
+  "description": "Offline version of Regex101",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "Regex101-16.png", "128": "Regex101-128.png" }
+}
